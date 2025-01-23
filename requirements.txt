@@ -7,7 +7,11 @@ moviepy
 ffmpeg
 supervision
 fer
-tensorflow
-mtcnn
 numpy
 argparse
+tensorflow==2.13.0
+mtcnn==0.1.1
+protobuf
+scipy
+pandas
+pillow
